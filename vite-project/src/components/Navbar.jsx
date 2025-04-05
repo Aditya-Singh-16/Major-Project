@@ -24,6 +24,7 @@ function Navbar() {
             <li><a href="#">About</a></li>
           </ul>
         </div>
+        
       </div>
 
       <div className="navbar-center">
