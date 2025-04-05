@@ -27,7 +27,7 @@ function Navbar() {
       </div>
 
       <div className="navbar-center">
-        <h1 className="btn btn-ghost text-xl">Bookstore</h1>                                       
+        <h1 className="btn btn-ghost text-xl">Book Store</h1>                                       
       </div>
 
       <div className="navbar-end">
