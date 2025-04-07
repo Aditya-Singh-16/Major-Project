@@ -3,6 +3,10 @@
     "daisyui": "^5.0.9"
   },
   "dependencies": {
-    "framer-motion": "^12.6.3"
+    "axios": "^1.8.4",
+    "framer-motion": "^12.6.3",
+    "lucide-react": "^0.487.0",
+    "react-slick": "^0.30.3",
+    "slick-carousel": "^1.8.1"
   }
 }
