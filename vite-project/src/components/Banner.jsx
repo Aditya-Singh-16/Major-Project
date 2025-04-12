@@ -2,6 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { Mail } from 'lucide-react';
 
+
 // Use your image path
 const bannerImage = new URL('../assets/tori.jpg', import.meta.url).href;
 
